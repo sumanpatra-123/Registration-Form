@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    color: #000000;
+    font-size: 20px;
+  }
+
+  .navbar-style{
+
+    box-shadow: 0 5px 10px #3a5868;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("image1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    background-image: url("image1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.container2 {
+    margin: 0;
+    padding: 0;
+    background-image: url("image6.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.container3 {
+    margin: 0;
+    padding: 0;
+    background-image: url("image7.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.col-md-7{
+    padding: 5% 0% 5% 0%;
+}
+
+
+.regform {
+    width: 800px;
+    background-color: rgb(35, 1, 68);
+    margin: auto;
+    color: #ffffff;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.main {
+    background-color: rgba(12, 2, 54, 0.534);
+    width: 800px;
+    margin: auto;
+}
+
+form {
+    padding: 10px;
+}
+
+#name {
+    width: 100%;
+    height: 100px;
+}
+
+.name {
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color: rgba(17, 1, 53, 0.986);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.two-col {
+    overflow: hidden;/* Makes this div contain its floats */
+}
+
+.two-col .col1,
+.two-col .col2 {
+    width: 49%;
+}
+
+.two-col .col1 {
+    float: left;
+}
+
+.two-col .col2 {
+    float: right;
+}
+
+.two-col label {
+    display: block;
+}
+
+
+.first {
+    color: rgba(205, 212, 163, 0.973);
+    padding-left: 2%;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.col1{
+    position: relative;
+    border-radius: 6px;
+   color: rgba(17, 1, 53, 0.986);
+   font-size: 18px;
+   font-weight: 700;
+   margin-left: 10px;
+   margin-top: 10px;
+   width: 125px;
+
+}
+
+.col2{
+    color: rgba(17, 1, 53, 0.986);
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -60px;
+    width: 125px;
+ }
+
+ .Whatsapp{
+     top: -20px;
+ }
+
+
+.bottom-container {
+    text-shadow: 1px 1px 1px rgb(75, 72, 48);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(161, 4, 4);
+    text-align: center;
+    background-color: #6d909b;
+    padding: 10px 10px 10px 10px;
+    font-size: 30px;
+  }
+
+.copy-right
+{
+  color: #18063b;
+  font-size: 1rem;
+  padding: 20px 0px;
+}
