@@ -25,6 +25,25 @@ body {
     margin-top: 40px;
 }
 
+.button {
+    padding: 15px 25px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: rgb(228, 155, 247);
+    background-color: #070249;
+    border: none;
+    border-radius: 15px;
+  }
+  .button:hover {background-color: #066caf}
+
+.button:active {
+  background-color: #087bbd;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
 .container {
     margin: 0;
     padding: 0;
